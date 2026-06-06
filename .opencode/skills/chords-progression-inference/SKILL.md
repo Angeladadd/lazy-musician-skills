@@ -1,5 +1,5 @@
 ---
-name: chords-progression
+name: chords-progression-inference
 description: Decode and reverse-engineer complex guitar chord progressions when mid-range frequencies are ambiguous, using outer-voice isolation, harmonic interpolation, and ergonomic validation.
 license: MIT
 compatibility: opencode
